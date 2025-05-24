@@ -1,0 +1,9 @@
+beautifulsoup4
+colorama
+coloredlogs
+Requests
+selenium
+undetected_chromedriver
+pyfiglet
+pandas
+openpyxl
